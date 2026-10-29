@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/WEB-INF/views/blood-request-edit.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/blood-request-list.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/blood-request.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/blood-stock-edit.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/blood-stock-list.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/blood-stock.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/donor-form.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/donor-list.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/error.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/success.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/update-donor.jsp=UTF-8
